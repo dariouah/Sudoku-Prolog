@@ -63,7 +63,7 @@ Para empezar a resolver sudokus con este programa, sigue los siguientes pasos:
 
 ## Video Tutorial de Uso
 
-Para complementar las instrucciones provistas en la sección "Cómo Usar", hemos preparado un video tutorial que muestra en detalle los pasos a seguir para configurar tu entorno, iniciar el solucionador de Sudoku en Prolog, y aplicar las reglas necesarias para resolver el tablero.
+Para complementar las instrucciones provistas en la sección "Cómo Usar", consulta el [video tutorial de uso](/ejemplo-como-usar.mp4) que muestra en detalle los pasos a seguir para configurar tu entorno, iniciar el solucionador de Sudoku en Prolog, y aplicar las reglas necesarias para resolver el tablero.
 
 Este video es especialmente útil si prefieres una guía visual que te lleve a través del proceso paso a paso, asegurando que puedas seguir las instrucciones y aplicar correctamente las reglas para resolver sudokus con éxito.
 
