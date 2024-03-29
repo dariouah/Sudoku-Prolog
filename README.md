@@ -82,4 +82,4 @@ Si deseas contribuir a mejorar este solucionador de Sudoku en Prolog, por favor,
 
 ## Licencia
 
-Este proyecto se comparte de manera libre y abierta. Se permite el uso, distribución y modificación sin restricciones. Sin embargo, se agradece el crédito al autor original en caso de uso público. Este proyecto se proporciona "tal cual", sin garantías de ningún tipo.
+Este proyecto se comparte de manera libre y abierta. Se permite el uso, distribución y modificación sin restricciones. Sin embargo, se agradece el crédito al autor original en caso de uso público.
