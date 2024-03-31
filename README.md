@@ -78,7 +78,7 @@ Esperamos que este recurso te sea de gran ayuda y facilite tu experiencia al usa
 
 ## Contribuciones
 
-Si deseas contribuir a mejorar este solucionador de Sudoku en Prolog, por favor, siente libre de hacer un fork del repositorio, realizar cambios y enviar un pull request con tus mejoras.
+Si deseas contribuir a mejorar este solucionador de Sudoku en Prolog, por favor, sientete libre de hacer un fork del repositorio, realizar cambios y enviar un pull request con tus mejoras.
 
 ## Licencia
 
