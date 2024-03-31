@@ -1,7 +1,7 @@
 
 # Solucionador de Sudoku en Prolog
 
-Este repositorio contiene un solucionador de tableros de Sudoku implementado en Prolog. El programa es capaz de resolver sudokus mediante la aplicación de reglas lógicas definidas en Prolog, proporcionando una solución paso a paso.
+Este repositorio contiene un solucionador de tableros de Sudoku implementado en Prolog. El programa es capaz de resolver sudokus mediante la aplicación de reglas lógicas definidas en Prolog, proporcionando una solución paso a paso. Se proporciona una [memoria](memoria.pdf) para facilitar la compresión del programa y sus predicados mas relevantes.
 
 ## Requisitos Previos
 
